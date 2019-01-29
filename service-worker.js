@@ -1,7 +1,7 @@
 var dataCacheName = 'weatherData-v1';
 var cacheName = 'rcsoft-pwa-v1-1';
 var filesToCache = [
-  '/',
+  '/rcsoft-pwa-test',
   '/rcsoft-pwa-test/index.html',
   '/rcsoft-pwa-test/index.js',
   '/rcsoft-pwa-test/assets/logo.png',
