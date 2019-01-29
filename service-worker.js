@@ -2,11 +2,11 @@ var dataCacheName = 'weatherData-v1';
 var cacheName = 'rcsoft-pwa-v1-1';
 var filesToCache = [
   '/',
-  '/rcsoft-pwa-test/index.html',
-  '/rcsoft-pwa-test/index.js',
-  '/rcsoft-pwa-test/assets/logo.png',
-  '/rcsoft-pwa-test/assets/raymondcoplin.jpg',
-  '/rcsoft-pwa-test/assets/business-developer.jpg',
+  '/index.html',
+  '/index.js',
+  '/assets/logo.png',
+  '/assets/raymondcoplin.jpg',
+  '/assets/business-developer.jpg',
   'https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.2/css/bulma.css'
 ];
 
